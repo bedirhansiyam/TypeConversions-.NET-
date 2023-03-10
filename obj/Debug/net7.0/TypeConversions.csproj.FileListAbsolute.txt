@@ -1,0 +1,15 @@
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\TypeConversions\bin\Debug\net7.0\TypeConversions.exe
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\TypeConversions\bin\Debug\net7.0\TypeConversions.deps.json
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\TypeConversions\bin\Debug\net7.0\TypeConversions.runtimeconfig.json
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\TypeConversions\bin\Debug\net7.0\TypeConversions.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\TypeConversions\bin\Debug\net7.0\TypeConversions.pdb
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\TypeConversions\obj\Debug\net7.0\TypeConversions.csproj.AssemblyReference.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\TypeConversions\obj\Debug\net7.0\TypeConversions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\TypeConversions\obj\Debug\net7.0\TypeConversions.AssemblyInfoInputs.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\TypeConversions\obj\Debug\net7.0\TypeConversions.AssemblyInfo.cs
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\TypeConversions\obj\Debug\net7.0\TypeConversions.csproj.CoreCompileInputs.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\TypeConversions\obj\Debug\net7.0\TypeConversions.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\TypeConversions\obj\Debug\net7.0\refint\TypeConversions.dll
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\TypeConversions\obj\Debug\net7.0\TypeConversions.pdb
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\TypeConversions\obj\Debug\net7.0\TypeConversions.genruntimeconfig.cache
+C:\Users\bedir\Documents\workspace\C#\1- VS Code\TypeConversions\obj\Debug\net7.0\ref\TypeConversions.dll
